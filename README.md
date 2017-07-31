@@ -16,6 +16,7 @@ You can set the path to your executable in the package settings.
 ###Launch REPL
 * ```ctrl-y ctrl-d``` Launch default Repl (**'Bash'**)
 * ```ctrl-y ctrl-o``` Launch OCaml Repl
+* ```ctrl-y ctrl-m``` Launch Octave Repl
 * ```ctrl-y ctrl-p``` Launch Python3 Repl
 * ```ctrl-y ctrl-b``` Launch Bash Repl
 * ```ctrl-y ctrl-c``` Launch CoffeeScript Repl
@@ -30,6 +31,7 @@ You can set the path to your executable in the package settings.
 ## Currently supported grammars :
 *(work still in progress)*
 * OCaml
+* Octave
 * Bash
 * Coffee
 * R
